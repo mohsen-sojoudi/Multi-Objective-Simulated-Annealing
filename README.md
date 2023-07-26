@@ -1,6 +1,6 @@
 # Introduction
 
-The classic paper can be found here: http://home.gwu.edu/~stroud/classics/KirkpatrickGelattVecchi83.pdf
+The classic paper can be found here: [http://home.gwu.edu/~stroud/classics/KirkpatrickGelattVecchi83.pdf](http://wexler.free.fr/library/files/kirkpatrick%20(1983)%20optimization%20by%20simulated%20annealing.pdf)
 
 (From wikipedia http://en.wikipedia.org/wiki/Simulated_annealing)
 
